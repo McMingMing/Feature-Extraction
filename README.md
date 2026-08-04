@@ -1,5 +1,5 @@
 # Brillouin Microscopy Corneal Classification
-### University of Maryland — Fischell Department of Bioengineering
+### University of Maryland — Fischell Institute for Biomedical Devices
 
 Automated classification of **Subclinical Keratoconus (SKC)** vs healthy **Controls**
 using Brillouin microscopy measurements of corneal stiffness. This project implements
@@ -19,7 +19,7 @@ undetected KC eye accelerates the disease.
 Brillouin microscopy measures corneal stiffness non-invasively by analyzing how laser
 light scatters off the tissue. Stiffer tissue produces a higher Brillouin frequency
 shift. Each patient's cornea is scanned at ~30–44 spatial locations within an 8mm
-circle. At each location a 100-frame depth profile captures how stiffness varies
+circle. At each location, a 100-frame depth profile captures how stiffness varies
 through the cornea's thickness. This project uses those measurements to automatically
 distinguish SKC from healthy Controls.
 
